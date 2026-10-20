@@ -1,6 +1,6 @@
 @HardwareProject_HostAddress = http://localhost:5253
 
-GET {{HardwareProject_HostAddress}}/weatherforecast/
+GET {{HardwareProject_HostAddress}}/api/Productos
 Accept: application/json
 
 ###
